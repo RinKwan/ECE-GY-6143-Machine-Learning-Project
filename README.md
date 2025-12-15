@@ -4,7 +4,16 @@ A machine learning project that detects **network intrusions** by classifying ne
 
 ## Group Members
 
-Yunfei Quan, Peifeng Yao, Yulong Wang, Ze Xu, Shubo Wang
+Yunfei Quan，New York University - Tandon School of Engineering
+
+Peifeng Yao，New York University - Tandon School of Engineering
+
+Yulong Wang，New York University - Tandon School of Engineering
+
+Ze Xu，New York University - Tandon School of Engineering
+
+Shubo Wang，New York University - Tandon School of Engineering
+
 
 ## Repository Structure
 ```
